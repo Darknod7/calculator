@@ -1,0 +1,14 @@
+{
+  "background_color": "#0f172a",
+  "dir": "ltr",
+  "display": "fullscreen",
+  "name": "Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Calculator",
+  "start_url": "/",
+  "theme_color": "#3b82f6",
+  "description": "Мой удобный и стильный калькулятор, созданный своими руками",
+  "id": "/",
+  "lang": "ru"
+}
